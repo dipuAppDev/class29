@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Countries Information</string>
+<!--    <string name="bd_short_desc">-->
+<!--        Bangladesh, country of South Asia . . .-->
+<!--    </string>-->
+
+    //pasta
+
+    <string name="pastaIngredients">Pasta
+\nCream Cheese
+\nParmesan Cheese
+\nOlive Oil
+\nGarlic
+\nSalt Pepper</string>
+    <string name="bangladeshDetails">Bangladesh, country of South Asia, located in the delta of the Padma (Ganges [Ganga]) and Jamuna (Brahmaputra) rivers in the northeastern part of the Indian subcontinent.
+
+        Bangladesh
+        Bangladesh
+        The riverine country of Bangladesh (“Land of the Bengals”) is one of the most densely populated countries in the world, and its people are predominantly Muslim. As the eastern portion of the historical region of Bengal, the area once formed, along with what is now the Indian state of West Bengal, the province of Bengal in British India. With the partition of India in 1947, it became the Pakistani province of East Bengal (later renamed East Pakistan), one of five provinces of Pakistan, separated from the other four by 1,100 miles (1,800 km) of Indian territory. In 1971 it became the independent country of Bangladesh, with its capital at Dhaka.
+        Bangladesh is bordered by the Indian states of West Bengal to the west and north, Assam to the north, Meghalaya to the north and northeast, and Tripura and Mizoram to the east. To the southeast, it shares a boundary with Myanmar (Burma). The southern part of Bangladesh opens into the Bay of Bengal.
+        Stretching northward from the Bay of Bengal, Bangladesh constitutes roughly the eastern two-thirds of the delta plain of the Padma (Ganges [Ganga]) and Jamuna (Brahmaputra) rivers. Except for small higher areas of jungle-covered old alluvium (rising to about 100 feet [30 metres]) in the northwest and north-centre—in the Barind and the Madhupur Tract, respectively—the plain is a flat surface of recent alluvium, having a gentle slope and an elevation of generally less than 30 feet (9 metres) above sea level. In the northeast and southeast—in the Sylhet and Chittagong Hills areas, respectively—the alluvial plains give place to ridges, running mainly north-south, that form part of the mountains that separate Bangladesh from Myanmar and India. In its southern region, Bangladesh is fringed by the Sundarbans, a huge expanse of marshy deltaic forest.
+        The Barind is a somewhat elevated triangular wedge of land that lies between the floodplains of the upper Padma and Jamuna rivers in northwestern Bangladesh. A depression called the Bhar Basin extends southeast from the Barind for about 100 miles (160 km) to the confluence of the Padma and Jamuna. This area is inundated during the summer monsoon season, in some places to a depth exceeding 10 feet (3 metres). The drainage of the western part of the basin is centred in the vast marshy area called the Chalan wetlands, also known as Chalan Lake. The floodplains of the Jamuna, which lie north of the Bhar Basin and east of the Barind, stretch from the border with Assam in the north to the confluence of the Padma and Jamuna in the south. The area is dominated by the Jamuna, which frequently overflows its banks in devastating floods. South of the Bhar Basin is the floodplain of the lower Padma.</string>
+
+    //maggi
+
+    <string name="maggiIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+
+    <string name="IndiaDetails">
+        India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country as of June 2023; and from the time of its independence in 1947, the worlds most famous democracy.
+
+
+    </string>
+
+    //cake
+
+    <string name="cakeIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="PakistanDetails">Pakistan emerged on the world map as an independent sovereign state in August 1947, as a result of the division of the British Indian Empire. With a land area of 881,913 sq. km. [including FATA (Federal Administered Tribal Areas) and FANA (Federal Administered Northern Areas)], its population stands at nearly 172.80 million, according to the 2008 Census. Historically, this is one of the most ancient lands known to man. Its cities flourished before Babylon was built; its people practiced the art of good living and citizenship before the celebrated ancient Greeks.
+
+The region traces its history back to at least 2,500 years before Christ, when a highly developed civilization flourished in the Indus Valley. Excavations at Harappa, Mohenjodaro and Kot Diji have brought to light evidence of an advanced civilization flourishing here even in most ancient times. Around 1,500 B.C. the Aryans conquered this region and slowly pushed the Hindu inhabitants further east, towards the Ganges Valley. Later, the Persians occupied the northern regions in 5th century B.C. The Greeks came in 327 B.C., under Alexander of Macedonia, and ran through the region like a meteor. In 712 A.D. the Arabs, led by Mohammed Bin Qasim, landed somewhere near what is now Karachi, and ruled the lower half of Pakistan for two hundred years. During this time Islam took root and influenced the life, culture and traditions of the inhabitants of the region.
+
+From 10th century A.D. onwards, a systematic conquest of Indo-Pakistan by the Muslims from Central Asia began and lasted up to 18th century A.D., when the British colonized the Sub-continent and ruled for nearly 200 years (for 100 years over what is now Pakistan). The Muslim revival began towards the end of the last century when Sir Syed Ahmed Khan, a renowned leader and educationist, launched a movement for intellectual renaissance of the Indian Muslims. In 1930, the well-known poet/philosopher, Dr. Mohammed Iqbal conceived the idea of a separate state for the Muslims of the Sub-continent, and in 1940, the All-India Muslim League adopted the famous Pakistan Resolution.
+
+After seven years of untiring struggle, under the brilliant leadership of Quaid-e-Azam Mohammed Ali Jinnah, Pakistan emerged on the world map as a sovereign state on August 14, 1947, when the British Indian Empire was partitioned into two independent states – India and Pakistan.</string>
+
+    //pancake
+
+    <string name="pancakeIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="SrilankaDetails">Sri Lanka is an island nation located in the Indian Ocean, just off the southeastern coast of India. Despite its modest size—slightly larger than the state of West Virginia—Sri Lanka has a population of about 20 million people, almost equal to the population of Texas. The island is rich in natural resources, and has a diverse economy based on agriculture, mining, fishing, manufacturing, and tourism. On becoming an independent nation in 1948 Sri Lanka (formerly called Ceylon) seemed to be headed for a future as a stable and prosperous democracy. Since the 1970s, however, the country has been torn by violent struggles between the two main ethnic groups, Sinhalese and Tamils, that make up its population. Sri Lanka suffered severe damage and loss of life from the tsunami of 2004; what effect that disaster will have on the country’s political future remains to be seen.</string>
+
+    //pizza
+
+    <string name="pizzaIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="MayanmarDetails">Myanmar is one of the last countries of Asia to be revealed to the travelling world. Located between India, China and Thailand, the people of this enchanted land have developed a culture which has endured invasion and change by absorbing and taking the best from those around them and creating their own style and flair.
+
+Visitors to Myanmar will find there is much to discover and experience – from pristine natural regions to golden pagodas to relics from an ancient past.
+</string>
+
+    //burgers
+
+    <string name="burgerIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="MaldivsDetails">The Maldives consists of 1,190 coral islands grouped in a double chain of twenty-seven atolls situated in the Indian Ocean. Most atolls consist of a large, ring-shaped coral reef supporting numerous small islands.
+
+The country covers an area approximately 90,000 square kilometres, of which only 298 square kilometres is dry land. The islands are of average one to two square kilometres in area, and no individual island is longer than eight kilometres. The Maldives lies between 1-1.5 meters above sea level, with the highest island situated at 3 meters above sea level.
+
+Maldives is largely flat and has no land features such as hills or rivers, but some islands have dunes such as that found in Hithadhoo island of Addu Atoll, and wetlands and marshes such as those found in the Fuvahmulah island of Gnaviyani Atoll.
+
+The Maldives is renowned for its white sandy beaches, pristine turquoise waters and unique underwater marine life.
+
+In 2011, Baa Atoll, which is home to a globally significant biodiversity among its numerous reefs in the Indian Ocean, became a designated UNESCO Biosphere Reserve.
+
+The people of the Maldives islands are widely dispersed across the atolls, with about 200 inhabited islands. About 164 islands are developed as tourist resorts and the remaining islands are uninhabited or used for agriculture and other livelihood purposes.</string>
+
+    //fries
+
+    <string name="friesIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="AmericaDetails">The United States of America is a North American nation that is the world’s most dominant economic and military power. Likewise, its cultural imprint spans the world, led in large part by its popular culture expressed in music, movies and television.
+
+The American colonies declared independence from the British Empire in 1776 and were recognized as a new nation in 1783. The country nearly split in two during a civil war in the mid-1800s, but regained its footing in the 20th century, during which time it was on the winning side of both world wars.
+
+The U.S. is a constitution-based federal republic composed of 50 states. The U.S. economy is the world’s largest in terms of gross domestic product, and also the most technologically powerful. The country’s significant exports include computers and electrical machinery, vehicles, chemical products, food, live animals and military equipment. The U.S. also has significant natural resources: It is the world’s leading producer of both oil and natural gas, and has the world’s largest coal reserves.</string>
+
+</resources>
